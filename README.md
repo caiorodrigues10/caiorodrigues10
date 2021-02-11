@@ -4,10 +4,10 @@
 </br>
  Atualmente, busco uma nova oportunidade no mercado para ampliar meus conhecimentos e experiências .
  <p>
- <img width="50" height="50" src="gif.gif">
+ <img width="80" height="60" src="gif.gif">
  </p>
 
-
+![data](https://github-readme-stats.vercel.app/api?username=caiorodrigues10&show_icons=true&theme=tokyonight)
 
 
 
