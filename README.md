@@ -2,7 +2,7 @@
 </br>
 👨🏽‍🎓 E já sou formado em Desenvolvimento de Sistemas na Etec Bebedouro.
 </br>
- Atualmente, busco uma nova oportunidade no mercado para ampliar meus conhecimentos e experiências .
+ Atualmente, busco uma nova oportunidade no mercado para ampliar meus conhecimentos e experiências  🧠.
  <p>
  <img width="80" height="60" src="gif.gif">
  </p>
