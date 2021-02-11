@@ -1,8 +1,6 @@
-### Hi there 👋
-
-
-ddddd
-
+Olá, meu nome é Caio Henrique Rodrigues, tenho 18 anos e atualmente estou  no  1°  ano do curso de Sistemas de informação na universidade Unifafibe.
+</br>
+E já sou formado em Desenvolvimento de Sistemas na Etec Bebedouro
 
 
 
