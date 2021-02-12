@@ -1,8 +1,25 @@
 🙋‍♂️ Olá meu nome é Caio Henrique Rodrigues, 🎂 tenho 18 anos, 📚 atualmente estou no 1° ano de Sistemas de  Informação, ✏️  na universidade Unifafibe.
-</br>
+</br></br>
 👨🏽‍🎓 Sou formado em Desenvolvimento de Sistemas na Etec Bebedouro.
-</br>
+</br></br>
  Atualmente, busco uma nova oportunidade no mercado para ampliar meus conhecimentos e experiências  🧠.
+ </br>
+ 
+ ### Conecte-se comigo:
+<a href="https://www.linkedin.com/in/caio-henrique-rodrigues-9b155916b/" target="_blank">
+<img align="center" alt="caio-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+</a>
+<a href="https://www.instagram.com/caio_rodrgues_/" target="_blank">
+<img align="center" alt="caio-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+</a>
+<a href="https://www.facebook.com/caio.rodrigues.75248795/" target="_blank">
+<img align="center" alt="caio-facebook" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
+</a>
+ 
+ </br>
+ 
+ 
+ 
  
  <table>
     <tr>
