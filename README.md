@@ -3,9 +3,26 @@
 👨🏽‍🎓 Sou formado em Desenvolvimento de Sistemas na Etec Bebedouro.
 </br>
  Atualmente, busco uma nova oportunidade no mercado para ampliar meus conhecimentos e experiências  🧠.
- <p>
+ 
+ <table>
+    <tr>
+    <th>
  <img width="80" height="60" src="gif.gif">
- </p>
+ </th>
+ <th>
+ <img width="80" height="60" src="gif1.gif">
+ </th>
+ <th>
+ <img width="80" height="60" src="gif2.gif">
+ </th>
+ <th>
+ <img width="80" height="60" src="gif3.gif">
+ </th>
+ <th>
+ <img width="80" height="60" src="gif4.gif">
+ </th>
+ </tr>
+ </table>
 
 ![data](https://github-readme-stats.vercel.app/api?username=caiorodrigues10&show_icons=true&theme=tokyonight)
 
