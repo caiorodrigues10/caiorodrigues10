@@ -18,7 +18,7 @@
  <p>
  </br>
  </p>
- <table>
+
     <tr>
     <th>
  <img width="80" height="60" src="gif.gif">
