@@ -2,7 +2,7 @@
 </br></br>
 👨🏽‍🎓 Sou formado em Desenvolvimento de Sistemas na Etec Bebedouro.
 </br></br>
- Atualmente, sou desenvolvedor Amor front-mês em busca de mais conhecimento e desafios para minha carreira 🧠.
+ Atualmente, sou desenvolvedor front-end em busca de mais conhecimento e desafios para minha carreira 🧠.
  </br>
  
  ### Conecte-se comigo:
