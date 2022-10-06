@@ -38,8 +38,6 @@
  </tr>
  </table>
 
-![data](https://github-readme-stats.vercel.app/api?username=caiorodrigues10&show_icons=true&theme=tokyonight)
-
 
 
 
