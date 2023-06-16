@@ -1,11 +1,11 @@
-🙋‍♂️ Olá meu nome é Caio Henrique Rodrigues, 🎂 tenho 20 anos, 📚 atualmente estou no 2° ano de Sistemas de  Informação, ✏️  na universidade Unifafibe.
+🙋‍♂️ Hello! My name is Caio Henrique Rodrigues, 🎂 Have 20 years old, 📚 at the moment I am in 3° year of System of Information  ✏️  in college Unifafibe.
 </br></br>
-👨🏽‍🎓 Sou formado em Desenvolvimento de Sistemas na Etec Bebedouro.
+👨🏽‍🎓 I am formad in Development of System in Etec Bebedouro.
 </br></br>
- Atualmente, sou desenvolvedor front-end em busca de mais conhecimento e desafios para minha carreira 🧠.
+ At the moment I'm a front-end developer looking for more knowledge and challenges for my career 🧠.
  </br>
  
- ### Conecte-se comigo:
+ ### Connect with me:
 <a href="https://www.linkedin.com/in/caio-henrique-rodrigues-9b155916b/" target="_blank">
 <img align="center" alt="caio-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
