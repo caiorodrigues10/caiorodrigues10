@@ -6,6 +6,9 @@
  </br>
  
  ### Connect with me:
+ <a href="https://caio-h-rodrigues.vercel.app/pt-br" target="_blank">
+  Meu portfólio
+</a>
 <a href="https://www.linkedin.com/in/caio-henrique-rodrigues-9b155916b/" target="_blank">
 <img align="center" alt="caio-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
