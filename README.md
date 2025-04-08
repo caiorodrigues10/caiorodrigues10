@@ -1,8 +1,8 @@
-🙋‍♂️ Hello! My name is Caio Henrique Rodrigues, 🎂 I have 22 years old, 📚 at the moment I am in last year of System of Information  ✏️  in college Unifafibe.
+Hello! My name is Caio Henrique Rodrigues, I'm 23 years old, at the moment I am in last year of System of Information in college Unifafibe.
 </br></br>
-👨🏽‍🎓 I am formad in Development of System in Etec Bebedouro.
+I am formad in Development of System in Etec Bebedouro.
 </br></br>
- At the moment I'm a front-end developer looking for more knowledge and challenges for my career 🧠.
+At the moment I'm a front-end developer looking for more knowledge and challenges for my career.
  </br>
  
  ### Connect with me:
