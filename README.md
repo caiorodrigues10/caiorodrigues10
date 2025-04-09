@@ -1,13 +1,13 @@
-Hello! My name is Caio Henrique Rodrigues, I'm 23 years old, at the moment I am in last year of System of Information in college Unifafibe.
+Hello! My name is Caio Henrique Rodrigues, I'm 23 years old, I've been a Full-stack developer for 4 years, I use ReactJS, NodeJS, NextJS, Fastify, Express, PostgreSQL, Tailwind CSS, etc...
 </br></br>
-I am formad in Development of System in Etec Bebedouro.
+I am gradued in Development of System in Etec Bebedouro.
 </br></br>
 At the moment I'm a front-end developer looking for more knowledge and challenges for my career.
  </br>
  
  ### Connect with me:
  <a href="https://caio-h-rodrigues.vercel.app/pt-br" target="_blank">
-  Meu portfólio
+  My portfolio
 </a>
 </br>
 </br>
