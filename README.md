@@ -1,6 +1,6 @@
 Hello! My name is Caio Henrique Rodrigues, I'm 23 years old, I've been a Full-stack developer for 4 years, I use ReactJS, NodeJS, NextJS, Fastify, Express, PostgreSQL, Tailwind CSS, etc...
 </br></br>
-I am gradued in Development of System in Etec Bebedouro.
+I have a degree in Systems Development from Etec Bebedouro and also a degree in Information Systems from Unifafibe.
 </br></br>
 At the moment I'm a front-end developer looking for more knowledge and challenges for my career.
  </br>
